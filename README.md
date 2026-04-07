@@ -4,8 +4,8 @@ A responsive countdown timer built using HTML, CSS, and JavaScript. This project
 
 ## Links
 
-Live Site: https://count-down-timer-ten-lac.vercel.app/
-Repository: https://github.com/uma-codespace/count-down-timer
+- Live Site: https://count-down-timer-ten-lac.vercel.app/
+- Repository: https://github.com/uma-codespace/count-down-timer
 
 ## 📌 Features
 
