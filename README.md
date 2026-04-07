@@ -2,6 +2,11 @@
 
 A responsive countdown timer built using HTML, CSS, and JavaScript. This project displays the remaining time (days, hours, minutes, seconds) until a target date, with a clean UI and layered background design.
 
+## Links
+
+Live Site: https://count-down-timer-ten-lac.vercel.app/
+Repository: https://github.com/uma-codespace/count-down-timer
+
 ## 📌 Features
 
 ⏳ Real-time countdown logic using JavaScript
