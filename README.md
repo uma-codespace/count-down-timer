@@ -1,4 +1,4 @@
-# 🚀 Countdown Timer – Responsive Frontend Challenge
+# Countdown Timer – Responsive Frontend Challenge
 
 A responsive countdown timer built using HTML, CSS, and JavaScript. This project displays the remaining time (days, hours, minutes, seconds) until a target date, with a clean UI and layered background design.
 
@@ -7,7 +7,7 @@ A responsive countdown timer built using HTML, CSS, and JavaScript. This project
 - Live Site: https://count-down-timer-ten-lac.vercel.app/
 - Repository: https://github.com/uma-codespace/count-down-timer
 
-## 📌 Features
+## Features
 
 ⏳ Real-time countdown logic using JavaScript
 📱 Fully responsive layout (desktop → mobile)
@@ -17,14 +17,14 @@ A responsive countdown timer built using HTML, CSS, and JavaScript. This project
 🧩 Modular and readable code structure
 ✨ Social media icons with hover effects (planned/added)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML5 – Semantic structure
 - CSS3 – Grid, Flexbox, responsive design
 - JavaScript (ES6) – Time calculations & DOM updates
 - Ionicons – Social media icons
 
-## 🧠 How It Works
+## How It Works
 
 The countdown logic is based on the difference between the target timestamp and the current time:
 
@@ -46,7 +46,7 @@ const target = Date.now() + 10 _ 24 _ 60 _ 60 _ 1000;
 String(num).padStart(2, "0");
 ```
 
-## 🎨 UI Highlights
+## UI Highlights
 
 - Layered Backgrounds
 
@@ -63,13 +63,13 @@ background-image: url(images/bg-stars.svg), linear-gradient(#1e1e2a, #241d2c);
 - Flexbox
   - Used for centering content and icon alignment
 
-## 📱 Responsive Design
+## Responsive Design
 
 - Desktop: 4-column timer layout
 - Mobile: switches to 2-column grid
 - Padding and spacing adjusted for smaller screens
 
-## ✨ Upcoming / Enhancements
+## Upcoming / Enhancements
 
 🔥 Icon hover animations (scale / color transitions)
 🎯 Ability to set a custom target date
@@ -90,7 +90,7 @@ project/
 
 ```
 
-## ▶️ Getting Started
+## Getting Started
 
 - Clone the repository
 
@@ -98,19 +98,19 @@ project/
 
 - Open index.html in your browser
 
-## 📸 Preview
+## Preview
 
 ![Desktop Preview](./preview/large-xl.png)
 ![Tablet Preview](./preview/tablet-md.png)
 ![Mobile Preview](./preview/mobile-sm.png)
 
-## 💡 Learnings
+## Learnings
 
 - Time-based calculations in JavaScript
 - Handling modular arithmetic for clocks
 - Layering multiple backgrounds in CSS
 - Building responsive layouts with Grid & Flexbox
 
-## 🙌 Acknowledgment
+## Acknowledgment
 
 - Challenge inspired by Frontend Mentor
