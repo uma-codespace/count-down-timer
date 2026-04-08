@@ -9,13 +9,13 @@ A responsive countdown timer built using HTML, CSS, and JavaScript. This project
 
 ## Features
 
-⏳ Real-time countdown logic using JavaScript
-📱 Fully responsive layout (desktop → mobile)
-🎨 Custom UI with gradient + background image layering
-🔢 Zero-padded time display (e.g., 04, 09)
-🌄 Decorative backgrounds (stars + hills)
-🧩 Modular and readable code structure
-✨ Social media icons with hover effects (planned/added)
+- Real-time countdown logic using JavaScript
+- Fully responsive layout (desktop → mobile)
+- Custom UI with gradient + background image layering
+- Zero-padded time display (e.g., 04, 09)
+- Decorative backgrounds (stars + hills)
+- Modular and readable code structure
+- Social media icons with hover effects (planned/added)
 
 ## Tech Stack
 
@@ -71,10 +71,10 @@ background-image: url(images/bg-stars.svg), linear-gradient(#1e1e2a, #241d2c);
 
 ## Upcoming / Enhancements
 
-🔥 Icon hover animations (scale / color transitions)
-🎯 Ability to set a custom target date
-🌙 Dark/light theme toggle (optional enhancement)
-⏹️ Stop timer when it reaches zero
+- Icon hover animations (scale / color transitions)
+- Ability to set a custom target date
+- Dark/light theme toggle (optional enhancement)
+- Stop timer when it reaches zero
 
 ## 📂 Folder Structure
 
